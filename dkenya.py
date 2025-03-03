@@ -1,0 +1,1 @@
+print("the temparature today was 29 degrees")
